@@ -1,4 +1,4 @@
-# OpenCV and all the cool stuff I built this vacay around it 
+# OpenCV and all the cool stuff I built around it, this vacay 
 
 after grasping a little bit of python from making recreating a bunch of games and messing around with some projects; i decided to get my hands dirty with something i found really cool on Insta. I started simple with a hand tracker and a face tracker before moving on to making a bit cooler (and more difficult for me to understand, much less build) stuff. With all that being said, here's all that I've managed creat till now. also, i'll try to attach a proper README with all my other projects too...
 
