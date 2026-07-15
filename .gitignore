@@ -1,0 +1,10 @@
+# Environments
+.venv/
+env/
+__pycache__/
+
+# macOS specific
+.DS_Store
+
+# Heavy AI Models
+# models/hand_landmarker.task
